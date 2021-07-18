@@ -19,3 +19,4 @@ Well, you know, we would have to use some other... languages at some point, so t
 1. [How to Annotate](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4946e2d3-7c79-4ed0-92e3-e5c3e1dd8bec/how_to_annotate.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210718%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210718T032149Z&X-Amz-Expires=86400&X-Amz-Signature=33ee4a92891e9aa09eb1ec88c585240a06d8b18b55c065d6f34ee5035a35e299&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22how_to_annotate.pdf%22)
 
 2. <a href="yxiao-qwq.github.io/blob/master/assets/TempSyllabus.pdf" target="_blank">A Syllabus...</a>
+（soon coming, still under a test...）
